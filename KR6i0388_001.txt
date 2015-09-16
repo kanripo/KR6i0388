@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:50.541857
+#+DATE: 2015-08-30 20:17:51.351393
 #+TITLE: 浴佛功德經
 #+PROPERTY: CBETA_ID T16n0698
 #+PROPERTY: ID KR6i0388
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 698
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6i0388_T_001-0799c> 
 #+PROPERTY: JUAN 1
 ¶
-No.698[No.697]¶
-
- 《浴佛功德經》¶
+No. 698 [No. 697]¶
+《浴像功德經》¶
 ¶
-大唐沙門釋義淨譯¶
+唐三藏法師義靜奉詔譯¶
 
 如是我聞：
 
@@ -97,7 +96,7 @@ No.698[No.697]¶
 　或造窣覩波，
 　及以如來像，¶
 　於彼像塔處，
-　塗拭曼荼羅，
+　塗拭曼茶羅，
 <pb:KR6i0388_T_001-0800b>¶
 　以種種香華，
 　散布於其上，¶
@@ -148,7 +147,7 @@ No.698[No.697]¶
 
 #+BEGIN_VERSE
 「　「我今灌沐諸如來，
-　淨智功德莊嚴聚，¶
+　智淨功德莊嚴聚，¶
 　願彼五濁眾生類，
 　速證如來淨法身。¶
 　戒定慧解知見香，
@@ -171,4 +170,4 @@ No.698[No.697]¶
 愍我等，教浴像法。我今勸化國王、大臣、一切¶
 信心樂功德者，於日日中澡沐尊儀，獲大利¶
 益，常當頂受，歡喜奉行！」¶
-《浴佛功德經》
+《浴像功德經》
